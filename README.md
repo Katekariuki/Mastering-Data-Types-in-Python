@@ -1,1 +1,1 @@
-# Python_Functions
+In Python, data types define the kind of value a variable can hold. Python supports several built-in data types, all of which are used to store different kinds of information. The following guide can help improve your understanding of data types in python and the values they hold.
